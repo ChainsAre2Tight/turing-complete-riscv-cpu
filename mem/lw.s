@@ -1,0 +1,7 @@
+lbu x1, 0(x0)
+lbu x2, 1(x0)
+lb x3, 0(x0)
+lb x4, 1(x0)
+lhu x5, 0(x0)
+lh x6, 0(x0)
+lw x7, 0(x0)
